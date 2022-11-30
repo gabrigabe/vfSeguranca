@@ -1,4 +1,4 @@
-# Instrunções
+# Instruções
 
 ## Q1 
 

